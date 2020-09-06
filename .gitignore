@@ -1,2 +1,4 @@
 foo.txt
 newtest.txt
+tomMapp/*
+!tomMapp/tomText.txt
